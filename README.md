@@ -9,10 +9,6 @@
 
 <br />
 
-### About Me
-- I have a bachelors degree in Software Engineering
-- I am always learning new things
-
 ### I'm currently working on
 - Advent of code 2023
 - Refamiliarizing myself with C++
