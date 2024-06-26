@@ -12,7 +12,6 @@
 ### I'm currently working on
 - Advent of code 2023
 - Refamiliarizing myself with C++
-- Learning Ruby on Rails
 
 ### [My website!](http://www.evansmedley.ca)  * is currently down :(
 
